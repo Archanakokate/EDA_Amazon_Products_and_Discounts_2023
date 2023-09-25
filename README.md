@@ -3,14 +3,14 @@ Task 2
 ## Exploratory Data Analysis (EDA) on Amazon's Products and Discounts (2023) 
 
 #### Problem Statement:
-Perform Data Cleaning and Exploratory Data Analysis (EDA).
-Identify patterns and trends in the data.
-Explore the relationships between variables.
-Dataset description
+- Perform Data Cleaning and Exploratory Data Analysis (EDA).
+- Identify patterns and trends in the data.
+- Explore the relationships between variables.
+
+#### Dataset description
 This is a Product Sales Dataset scraped from the Amazon website.
 
-#### Dataset link: 
-https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset
+Dataset link: https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset
 
 ##### Features:
 - name : The name of the product
