@@ -9,6 +9,9 @@ Explore the relationships between variables.
 Dataset description
 This is a Product Sales Dataset scraped from the Amazon website.
 
+#### Dataset link: 
+https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset
+
 ##### Features:
 - name : The name of the product
 - main_category : The main category of the product
