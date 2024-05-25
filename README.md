@@ -1,5 +1,4 @@
-### PRODIGY Internship - Data Science
-Task 2
+
 ## Exploratory Data Analysis (EDA) on Amazon's Products and Discounts (2023) 
 
 #### Problem Statement:
